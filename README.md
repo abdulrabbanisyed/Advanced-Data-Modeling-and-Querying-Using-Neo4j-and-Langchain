@@ -46,7 +46,7 @@ This project demonstrates the use of Neo4j, a leading graph database, and Langch
 
 ## Sample Query code snippet indicating the natural language querying on the dataset
 
-<img width="724" alt="image" src="https://github.com/user-attachments/assets/2288b018-b6f6-451e-943b-2e3d755a03c7">
+- <img width="724" alt="image" src="https://github.com/user-attachments/assets/2288b018-b6f6-451e-943b-2e3d755a03c7">
 - The above results returned the " I don't know" as the relationship doesn't exist at all in the dataset.
 
 
