@@ -44,6 +44,12 @@ This project demonstrates the use of Neo4j, a leading graph database, and Langch
 - **Natural Language Interface:** Langchain can make data querying more accessible by allowing users to interact with databases using natural language, enhancing user experience and productivity.
 - **Efficient Data Retrieval:** Graph databases offer performance advantages in querying highly connected data, making them ideal for applications requiring real-time insights and analytics.
 
+## Sample Query code snippet indicating the natural language querying on the dataset
+
+<img width="724" alt="image" src="https://github.com/user-attachments/assets/2288b018-b6f6-451e-943b-2e3d755a03c7">
+- The above results returned the " I don't know" as the relationship doesn't exist at all in the dataset.
+
+
 ## Conclusion
 This project demonstrates my proficiency in graph database management, natural language processing, and sophisticated data modeling techniques. The methodologies employed are highly pertinent to industry applications, such as social network analysis, recommendation systems, and knowledge graph construction. This underscores my preparedness to contribute to data-driven initiatives within a professional environment.
 
