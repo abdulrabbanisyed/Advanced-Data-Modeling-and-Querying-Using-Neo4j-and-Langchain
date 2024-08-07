@@ -1,4 +1,4 @@
-# Graph Database Project with Langchain and Neo4j
+# Advanced Data Modeling and Querying Using Neo4j and Langchain
 
 ## Overview
 This project demonstrates the use of Neo4j, a leading graph database, and Langchain, a library for natural language processing, to manage and query a dataset of movies. By leveraging graph database technology, this project illustrates how to efficiently store and retrieve complex relationships between data entities.
