@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates the use of Neo4j, a leading graph database, and Langchain, a library for natural language processing, to manage and query a dataset of movies. By leveraging graph database technology, this project illustrates how to efficiently store and retrieve complex relationships between data entities.
 
-## The 1600 nodes created by langchain on Neo4J graphDB.
+## The 1000 nodes created by langchain on Neo4J graphDB.
 ![image](https://github.com/user-attachments/assets/6922b10a-0b09-4748-83f1-cdd27f15912b)
 
 
