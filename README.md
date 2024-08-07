@@ -9,8 +9,8 @@ This project demonstrates the use of Neo4j, a leading graph database, and Langch
 - To enable natural language querying of the dataset using Langchain.
 
 ## Skills Utilized
-- ** Graph Databases:**  Proficiency in Neo4j for storing and querying data.
-- ** Natural Language Processing: ** Utilizing Langchain to interpret and process natural language queries.
-- ** Python Programming: ** Writing scripts to interface with Neo4j and Langchain.
-- ** Data Modeling: ** Designing and implementing a graph data model for the movie dataset.
+- **Graph Databases:**  Proficiency in Neo4j for storing and querying data.
+- **Natural Language Processing:** Utilizing Langchain to interpret and process natural language queries.
+- **Python Programming:** Writing scripts to interface with Neo4j and Langchain.
+- **Data Modeling:** Designing and implementing a graph data model for the movie dataset.
 
